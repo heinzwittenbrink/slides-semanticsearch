@@ -52,7 +52,7 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 
 # Example: Salzburger Land
 
-How SalzburgerLand.com Uses Content Marketing to Beat Competitors](https://wordlift.io/blog/en/salzburgerland-com-engaging-travelers-outperforming-competitors/ "How SalzburgerLand.com Uses Content Marketing to Beat Competitors")
+[How SalzburgerLand.com Uses Content Marketing to Beat Competitors](https://wordlift.io/blog/en/salzburgerland-com-engaging-travelers-outperforming-competitors/ "How SalzburgerLand.com Uses Content Marketing to Beat Competitors")
 
 # Example: Whisky
 
