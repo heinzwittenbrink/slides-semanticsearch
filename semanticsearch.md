@@ -50,12 +50,18 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 
 [What is Linked Data and Why is it Important for your Website?](https://wordlift.io/blog/en/entity/linked-data/ "What is Linked Data and Why is it Important for your Website?")
 
-# Linked Data: Introductory video
+# 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
  allowfullscreen>
-[What is Linked Data? - YouTube](https://www.youtube.com/watch?v=4x_xzT5eF5Q "What is Linked Data? - YouTube")
+ <a href="https://heinzwittenbrink.github.io/slides-semanticsearch/#/schema.org">Introduction to Semantic Search</a>
  </iframe>
+
+::: notes
+
+This video explains in a nonformal way what linked data is.
+
+:::
 
 # Example: Salzburger Land
 
