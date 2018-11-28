@@ -50,6 +50,10 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 
 [What is Linked Data and Why is it Important for your Website?](https://wordlift.io/blog/en/entity/linked-data/ "What is Linked Data and Why is it Important for your Website?")
 
+# Linked Data: Introductory video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Example: Salzburger Land
 
 [How SalzburgerLand.com Uses Content Marketing to Beat Competitors](https://wordlift.io/blog/en/salzburgerland-com-engaging-travelers-outperforming-competitors/ "How SalzburgerLand.com Uses Content Marketing to Beat Competitors")
