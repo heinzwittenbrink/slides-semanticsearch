@@ -1,7 +1,7 @@
 ---
 title: Introduction to Semantic Search
 author: Heinz Wittenbrink
-date:  2018-11-23
+date:  2018-12-03
 ---
 
 # Structured data
@@ -50,7 +50,7 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 
 [What is Linked Data and Why is it Important for your Website?](https://wordlift.io/blog/en/entity/linked-data/ "What is Linked Data and Why is it Important for your Website?")
 
-# 
+#
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
  allowfullscreen>
