@@ -32,6 +32,23 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 
 [Home - schema.org](https://schema.org/ "Home - schema.org")
 
+
+# Jason-LD
+
+Introduction: [JSON-LD Primer](https://json-ld.org/primer/latest/ "JSON-LD Primer")
+
+[W3C JSON-LD Working Group](https://www.w3.org/2018/json-ld-wg/ "W3C JSON-LD Working Group")
+
+::: notes
+
+This introduction contains a very good example showing how Linked Data are formatted, and how to connect them. The example is a bicycle shop with different products. You can see that linked data belongs in a namespace, and that you have to specify a context so that they are understandable. The namespace also defines how the data is related to each other.
+
+:::
+
+# Presentation by Markus Lanthaler
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3JGmK5QyWLVcNi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lanthaler/from-strings-to-things-to-a-web-of-services" title="From Strings to Things to a Web of Services" target="_blank">From Strings to Things to a Web of Services</a> </strong> from <strong><a href="https://www.slideshare.net/lanthaler" target="_blank">Markus Lanthaler</a></strong> </div>
+
 # Structured Data Testing Tool
 
 [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool?hl=en "Structured Data Testing Tool")
@@ -49,6 +66,7 @@ Example: Recipe: [recipe spaghetti puttanesca - Google Search](https://www.googl
 [Linked Data | Linked Data - Connect Distributed Data across the Web](http://linkeddata.org/ "Linked Data | Linked Data - Connect Distributed Data across the Web")
 
 [What is Linked Data and Why is it Important for your Website?](https://wordlift.io/blog/en/entity/linked-data/ "What is Linked Data and Why is it Important for your Website?")
+
 
 #
 
@@ -74,6 +92,10 @@ This video explains in a nonformal way what linked data is.
 # Salzburgerland Data Hub
 
 [Welcome - salzburgerland.com](http://data.salzburgerland.com/ "Welcome - salzburgerland.com")
+
+# Presentation on Linked Data today
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GFzs-IlI2Eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Resources
 
